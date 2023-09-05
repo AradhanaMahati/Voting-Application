@@ -1,0 +1,9 @@
+,voter_id,Name,Passw,hasVoted
+0,10001,Deep,abcd,1
+1,10002,Prachi,abcd,1
+2,10003,Het,abcd,1
+3,10004,Shivanshi,abcd,1
+4,10005,Rohan,abcd,0
+5,10006,Ashlin,ashlin,0
+6,10007,ashlin,ashlin,1
+7,10008,add,ask,1
